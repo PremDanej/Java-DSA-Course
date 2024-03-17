@@ -19,5 +19,9 @@
             <td>2</td>
             <td><a href="TwoDimArray.java">Two Dimensional Array</a></td>
         </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="SumOfArray.java">Sum of Array Elements</a></td>
+        </tr>
     </tbody>
 </table>
