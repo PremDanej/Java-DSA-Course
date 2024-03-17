@@ -1,20 +1,77 @@
-## title {.tabset .tabset-fade}
-content above tabbed region.
+## Array
 
-### tab Arrays
+- Array is a part of Data Structure.
+- Array is a group of same data type.
+- Array stores data sequential manner.
+- An array takes a contiguous section of memory.
+- Array declare with <b>[ ]</b> (square brackets).
+- Array always start from <b>0</b> index.
 
-tab content Arrays
+## Declaration
 
-### tab Topic
+- ```int[] arr = new int[];```
+- ```int arr[] = new int[];```
 
-tab content  Topic
+> **Note**: Both are valid declaration.
 
-### tab Skills
+## Declaring array literal
 
-tab content  Skills
+```
+int[] arr = new int[] {1, 2, 3, 4, 5}; // 1st
+int[] arr = {1, 2, 3, 4, 5}; // 2nd
+```
 
-### tab Insights
+## Array's value
 
-tab content  Insights
+```
+int[] arr = new int[5]; // all value are 0;
+```
+> **Note**: By default, All values are 0.
 
-content below tabbed region
+<table>
+    <tr>
+        <td><b>Index</b></td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td><b>Value</b></td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+</table>
+
+## Topic
+
+<p>Here are some following topics we cover here. I'm sharing solution over here. This is not my course. This course is completely available on Scaler.</p>
+
+<table>
+<thead>
+    <th>Index</th>
+    <th>Topic</th>
+</thead>
+<tbody>
+    <tr>
+        <td>1</td>
+        <td><a href="Intro.java">Intro</a></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td><a href="TwoDimArray.java">Two Dimensional Array</a></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td><a href="SumOfArray.java">Sum of Array Elements</a></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td><a href="MaxElementArray.java">Max element from Array</a></td>
+    </tr>
+</tbody>
+</table>

@@ -1,3 +1,6 @@
+/*
+ * Find sum of Array's elements.
+ */
 public class SumOfArray {
     public static void main(String[] args) {
 
