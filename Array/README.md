@@ -73,5 +73,9 @@ int[] arr = new int[5]; // all value are 0;
         <td>4</td>
         <td><a href="MaxElementArray.java">Max element from Array</a></td>
     </tr>
+    <tr>
+        <td>4</td>
+        <td><a href="ReverseArray.java">Reverse Array</a></td>
+    </tr>
 </tbody>
 </table>
