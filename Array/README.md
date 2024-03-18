@@ -77,5 +77,9 @@ int[] arr = new int[5]; // all value are 0;
         <td>4</td>
         <td><a href="ReverseArray.java">Reverse Array</a></td>
     </tr>
+    <tr>
+        <td>5</td>
+        <td><a href="SubArray.java">SubArray's from Array</a></td>
+    </tr>
 </tbody>
 </table>
