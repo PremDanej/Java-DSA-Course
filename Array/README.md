@@ -26,6 +26,7 @@ int[] arr = {1, 2, 3, 4, 5}; // 2nd
 ```
 int[] arr = new int[5]; // all value are 0;
 ```
+
 > **Note**: By default, All values are 0.
 
 <table>
@@ -52,34 +53,38 @@ int[] arr = new int[5]; // all value are 0;
 <p>Here are some following topics we cover here. I'm sharing solution over here. This is not my course. This course is completely available on Scaler.</p>
 
 <table>
-<thead>
-    <th>Index</th>
-    <th>Topic</th>
-</thead>
-<tbody>
-    <tr>
-        <td>1</td>
-        <td><a href="Intro.java">Intro</a></td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td><a href="TwoDimArray.java">Two Dimensional Array</a></td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td><a href="SumOfArray.java">Sum of Array Elements</a></td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td><a href="MaxElementArray.java">Max element from Array</a></td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td><a href="ReverseArray.java">Reverse Array</a></td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td><a href="SubArray.java">SubArray's from Array</a></td>
-    </tr>
-</tbody>
+    <thead>
+        <th>Index</th>
+        <th>Topic</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="Intro.java">Intro</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="TwoDimArray.java">Two Dimensional Array</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="SumOfArray.java">Sum of Array Elements</a></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td><a href="MaxElementArray.java">Max element from Array</a></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td><a href="ReverseArray.java">Reverse Array</a></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td><a href="SubArray.java">SubArray's from Array</a></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td><a href="TransposeMatrix.java">Transpose of Matrix (Same size)</a></td>
+        </tr>
+    </tbody>
 </table>
