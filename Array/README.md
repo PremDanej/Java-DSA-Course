@@ -90,5 +90,9 @@ int[] arr = new int[5]; // all value are 0;
             <td>7</td>
             <td><a href="TransposeDiffMatrix.java">Transpose of Matrix (Different size)</a></td>
         </tr>
+        <tr>
+            <td>8</td>
+            <td><a href="RotateArray.java">Rotate 2D Array Clockwise 90 degrees</a></td>
+        </tr>
     </tbody>
 </table>
