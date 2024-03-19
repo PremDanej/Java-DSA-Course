@@ -53,5 +53,9 @@
             <td>1</td>
             <td><a href="Intro.java">Introduction</a></td>
         </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="RemoveEven.java">RemoveEven Elements from ArrayList</a></td>
+        </tr>
     </tbody>
 </table>
