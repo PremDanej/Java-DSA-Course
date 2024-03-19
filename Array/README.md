@@ -98,5 +98,9 @@ int[] arr = new int[5]; // all value are 0;
             <td>8</td>
             <td><a href="RotateArray180.java">Rotate 2D Array Clockwise 180 degrees [Bonus]</a></td>
         </tr>
+        <tr>
+            <td>9</td>
+            <td><a href="RotateArray270.java">Rotate 2D Array Clockwise 270 degrees [Bonus]</a></td>
+        </tr>
     </tbody>
 </table>
