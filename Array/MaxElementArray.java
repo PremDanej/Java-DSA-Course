@@ -1,3 +1,5 @@
+package Array;
+
 /*
  * Find Maximum element from Array.
  */

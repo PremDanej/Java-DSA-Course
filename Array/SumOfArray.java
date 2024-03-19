@@ -1,3 +1,5 @@
+package Array;
+
 /*
  * Find sum of Array's elements.
  */
