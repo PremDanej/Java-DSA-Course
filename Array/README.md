@@ -88,11 +88,15 @@ int[] arr = new int[5]; // all value are 0;
         </tr>
         <tr>
             <td>7</td>
-            <td><a href="TransposeDiffMatrix.java">Transpose of Matrix (Different size)</a></td>
+            <td><a href="TransposeDiffMatrix.java">Transpose of Matrix (Different size) [Bonus]</a></td>
         </tr>
         <tr>
             <td>8</td>
             <td><a href="RotateArray.java">Rotate 2D Array Clockwise 90 degrees</a></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td><a href="RotateArray180.java">Rotate 2D Array Clockwise 180 degrees [Bonus]</a></td>
         </tr>
     </tbody>
 </table>
