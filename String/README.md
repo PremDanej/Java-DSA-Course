@@ -50,7 +50,11 @@
         </tr>
         <tr>
             <td>2</td>
-            <td><a href="RemoveVowels.java">Remove Vowels from String.</a></td>
+            <td><a href="RemoveVowels.java">Remove Vowels from String</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="ReverseVowels.java">Reverse Vowels from String</a></td>
         </tr>
    </tbody>
 </table>
