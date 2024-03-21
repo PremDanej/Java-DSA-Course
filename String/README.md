@@ -56,5 +56,9 @@
             <td>3</td>
             <td><a href="ReverseVowels.java">Reverse Vowels from String</a></td>
         </tr>
+        <tr>
+            <td>4</td>
+            <td><a href="ConvertLower.java">Convert all Uppercase to Lowercase</a></td>
+        </tr>
    </tbody>
 </table>
