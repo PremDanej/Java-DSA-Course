@@ -22,5 +22,9 @@
         <th>Topic</th>
     </thead>
     <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="SelectionSort.java">Selection Sort</a></td>
+        </tr>
     </tbody>
 </table>
