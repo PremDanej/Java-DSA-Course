@@ -1,12 +1,11 @@
 package Sorting;
 
-import java.util.Arrays;
-
 /*
  * Sort an Array with Selection Sort.
  */
 public class SelectionSort {
     public static void main(String[] args) {
+
         int[] arr = {2, 8, 4, -1, 7, 10, 5, 6};
 
         for(int i = 0; i < arr.length -1 ; i++){

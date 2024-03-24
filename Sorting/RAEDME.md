@@ -26,5 +26,9 @@
             <td>1</td>
             <td><a href="SelectionSort.java">Selection Sort</a></td>
         </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="BubbleSort.java">Bubble Sort</a></td>
+        </tr>
     </tbody>
 </table>
