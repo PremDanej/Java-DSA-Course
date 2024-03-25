@@ -30,5 +30,9 @@
             <td>2</td>
             <td><a href="BubbleSort.java">Bubble Sort</a></td>
         </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="InsertionSort.java">Insertion Sort</a></td>
+        </tr>
     </tbody>
 </table>
