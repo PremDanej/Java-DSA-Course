@@ -31,5 +31,9 @@
             <td>1</td>
             <td><a href="Intro.java">Intro</a></td>
         </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="PrintNumber.java">Print Number</a></td>
+        </tr>
     </tbody>
 </table>
