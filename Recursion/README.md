@@ -35,5 +35,9 @@
             <td>2</td>
             <td><a href="PrintNumber.java">Print Number</a></td>
         </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="PrintArray.java">Print Array</a></td>
+        </tr>
     </tbody>
 </table>
