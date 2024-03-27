@@ -43,5 +43,9 @@
             <td>4</td>
             <td><a href="FindElement.java">Find element from Array</a></td>
         </tr>
+        <tr>
+            <td>5</td>
+            <td><a href="FindFactorial.java">Find Factorial</a></td>
+        </tr>
     </tbody>
 </table>
