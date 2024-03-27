@@ -39,5 +39,9 @@
             <td>3</td>
             <td><a href="PrintArray.java">Print Array</a></td>
         </tr>
+        <tr>
+            <td>4</td>
+            <td><a href="FindElement.java">Find element from Array</a></td>
+        </tr>
     </tbody>
 </table>
