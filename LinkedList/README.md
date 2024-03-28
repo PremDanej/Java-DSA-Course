@@ -35,5 +35,9 @@
             <td>2</td>
             <td><a href="InsertFirst.java">Insert Node at First</a></td>
         </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="InsertLast.java">Insert Node at Last</a></td>
+        </tr>
     </tbody>
 </table>
