@@ -29,8 +29,8 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>1</td>
+            <td><a href="Intro.java">Intro</a></td>
         </tr>
     </tbody>
 </table>
