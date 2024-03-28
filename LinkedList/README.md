@@ -15,7 +15,6 @@
 
 ## Types
 
- 
 1. Single-linked list
 2. Double linked list
 3. Circular linked list
@@ -31,6 +30,10 @@
         <tr>
             <td>1</td>
             <td><a href="Intro.java">Intro</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="InsertFirst.java">Insert Node at First</a></td>
         </tr>
     </tbody>
 </table>
